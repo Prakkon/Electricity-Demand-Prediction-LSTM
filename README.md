@@ -3,7 +3,7 @@
 
 ### Introduction
 
-This forecasting method has been adopted due to the necessity of continuous long term data modelling in case of electricity demand prediction. [Another work](github.com/Prakkon/Electricity-Demand-Prediction-Ensemble) largely dissimilar from this addresses the problem with Real Time assessment of data through an ensemble model. 
+This forecasting method has been adopted due to the necessity of continuous long term data modelling in case of electricity demand prediction. [Another work](github.com/Prakkon/Electricity-Demand-Prediction-Ensemble) largely dissimilar to this in terms of approach, addresses the problem with Real Time assessment of data through an ensemble model. 
 
 ---
 
